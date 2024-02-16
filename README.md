@@ -9,7 +9,7 @@ This project is part of a machine learning course focused on using linear regres
 - Coefficient Analysis: Examination of model-generated coefficients to identify opportunities for improving model accuracy.
 
 ## Setup and installation
-You can see the process of fitting the data in [here](StreetEasy%20Model.ipynb) or can install it locally using the next steps:
+You can see the Jupyter Notebook [here](StreetEasy%20Model.ipynb) or can install it locally using the next steps:
 
 **Prerequisite**: This project requires Jupyter Notebook to be installed. If you do not have Jupyter Notebook installed, you can find installation instructions at the [documentation](https://jupyter.org).
 
