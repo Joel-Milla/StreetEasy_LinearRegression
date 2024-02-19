@@ -4,7 +4,7 @@ This project is part of a machine learning course focused on using linear regres
 
 ## Features
 
-- Model Training: Utilizes training and testing datasets to develop th emodel and assess the performance.
+- Model Training: Utilizes training and testing datasets to develop the model and assess the performance.
 - Performance metric: Employs the coefficient of determination (R²) to evaluate the model effectiveness.
 - Coefficient Analysis: Examination of model-generated coefficients to identify opportunities for improving model accuracy.
 
