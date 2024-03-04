@@ -1,6 +1,6 @@
 # StreetEasy Project
 
-This project is part of a machine learning course focused on using linear regression. By utilizing multiple features, the objective is to develop and improve the models accuracy of forecasting property rental prices across Manhattan, Brooklyn, and Queens. The project consist of training and testing datasets to fit the model and assess the performance.
+This project is focused on using linear regression, applying learnings from a machine learning course. By utilizing multiple features, the objective is to develop and improve the models accuracy of forecasting property rental prices across Manhattan, Brooklyn, and Queens. The project consist of training and testing datasets to fit the model and assess the performance.
 
 ## Features
 
